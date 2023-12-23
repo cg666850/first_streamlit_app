@@ -53,6 +53,7 @@ streamlit.stop()
 
 
 # streamlit.text("Hello from Snowflake:")
+
 streamlit.header("My fruit load list contains:")
 #snowflake_related functions:
 def get_fruit_load_list():
